@@ -1,4 +1,4 @@
-Deco:								Playfields Found:
+Deco:							    Playfields Found:
 RocksmallA02						Alien, Alien2, Barren, Desert, Desert2, Lava, Lava2, Moon, Snow, Temperate, Temperate2, 
 RocksmallC01						Alien, Barren, Desert2, Lava, Lava2, Moon, 
 RockGreySmall02						Moon, 
